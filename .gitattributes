@@ -1,5 +1,6 @@
 #This line told GitHub linguist library to ignore all of files
 node_modules/* linguist-vendored
+RealTimeTranslationChat/wwwroot/* linguist-vendored
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
